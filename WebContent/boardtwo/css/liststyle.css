@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+section{
+	padding-top : 30px;
+	width: 700px;
+	margin: auto;
+	left: 0;top: 0;right: 0;bottom: 0;
+}
+table{
+		width:700px;
+		border-collapse:collapse;
+		text-align:center;
+}
+
+a{
+		text-decoration: none;
+}
+.listwritebutton{
+		text-align:right;
+}
+.listtable{
+		text-align:center;
+		border:1px solid #333;
+}
+
+.listtable td{
+		text-align:center;
+		border:1px solid #333;
+}
+.listtable th{
+		text-align:center;
+		color: #ffffff;
+		border:1px solid #333;
+		background-coor: #4aa8b5;
+		height:30px;
+}
+.listtable .titletd{
+		text-align:left;
+}
+#num{width:100px;}
+#title{width:250px;}
+#writer{width:100px;}
+#date{width:150px;}
+#counter{width:100px;}
+#ip{width:100px;}
